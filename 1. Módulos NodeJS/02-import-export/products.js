@@ -14,4 +14,6 @@ function createProduct(id, name, price) {
   return new Product(id, name, price);
 }
 
+// aqui exporta
+// obs: pode ser exportado tudo (função, variavel, classe)
 module.exports = createProduct;
