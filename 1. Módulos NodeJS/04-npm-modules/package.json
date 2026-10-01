@@ -1,0 +1,16 @@
+{
+  "name": "npmmodules",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Samuel HK",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14",
+    "uuid": "^14.0.2"
+  }
+}
